@@ -1,0 +1,21 @@
+{
+  "rules": {
+    ".read": true,
+    ".write": "auth.uid == 'bjO4FHKaGQUdbumUF9Fua3Eo7Kh2'",
+    "users": {
+      ".read": true,
+      ".indexOn": [
+        "isLocked",
+        "status"
+      ],
+      ".write": true
+    },
+    "request": {
+      ".read": true,
+      ".indexOn": [
+        "kind"
+      ],
+      ".write": true
+    }
+  }
+}

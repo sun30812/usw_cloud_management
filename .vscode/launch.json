@@ -1,0 +1,19 @@
+{
+	// IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+	// 기존 특성에 대한 설명을 보려면 가리킵니다.
+	// 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "usw_cloud_management (Local)",
+			"request": "launch",
+			"type": "dart",
+			"args": [
+				"--dart-define=WEB_API_KEY=AIzaSyBxqiGo8oBojXa77X3EEMKzt-qZOkgerm8",
+				"--dart-define=WEB_APP_ID=1:234044081207:web:b43d62965f5e0441fd6bb2",
+				"--dart-define=MESSAGING_SENDER_ID=234044081207",
+				"--dart-define=MEASUREMENT_ID=G-KS15SW4DZZ"
+			]
+		},
+	]
+}

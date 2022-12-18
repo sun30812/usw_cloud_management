@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>234044081207-criq9egpfj8kcuqppjnqepv15ndmomm1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.234044081207-criq9egpfj8kcuqppjnqepv15ndmomm1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDELDb-J4Qm8lqMsM0Bwo0qvmFcgnGJXfA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>234044081207</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.uswCloudManagement</string>
+	<key>PROJECT_ID</key>
+	<string>usw-cloud-management</string>
+	<key>STORAGE_BUCKET</key>
+	<string>usw-cloud-management.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:234044081207:ios:3bafdbad53a17644fd6bb2</string>
+	<key>DATABASE_URL</key>
+	<string>https://usw-cloud-management-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

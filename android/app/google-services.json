@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "234044081207",
+    "firebase_url": "https://usw-cloud-management-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "usw-cloud-management",
+    "storage_bucket": "usw-cloud-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234044081207:android:6b4c6cb18d7883cafd6bb2",
+        "android_client_info": {
+          "package_name": "com.example.usw_cloud_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234044081207-sgipd78d0rc10r0hovagpaqrv1sdoe57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDabKy9cRDCkr3pQhJxHrzYGMYhzkb0TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234044081207-sgipd78d0rc10r0hovagpaqrv1sdoe57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
